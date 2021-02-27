@@ -1,0 +1,5 @@
+pytest
+pytest-cov
+JPype1
+chardet
+requests

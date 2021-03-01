@@ -4,8 +4,10 @@
 # C extensions
 *.so
 
-# java extensions
+# other extensions
 *.jar
+*.gml
+*.json
 
 # Packages
 *.egg

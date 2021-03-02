@@ -50,4 +50,4 @@ for some tips on getting started.
 .. _Apache 2 License: https://github.com/graphmk/py-graphmk/blob/master/LICENSE
 .. _Python Docs: http://py-graphmk.readthedocs.org/en/latest/
 .. |Docs| image:: https://img.shields.io/readthedocs/py-graphmk.svg
-.. |PypiVersion| image:: https://img.shields.io/pypi/v/Jpype1.svg
+.. |PypiVersion| image:: https://img.shields.io/pypi/v/py-graphmk.svg

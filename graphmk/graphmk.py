@@ -24,7 +24,6 @@ class GraphMk:
         graphmk_version = '1.0.0'
         if jpype.isJVMStarted() != True:
             classpth = os.path.dirname(os.path.abspath(__file__)) + "/lib/graphmk-{0}.jar".format(graphmk_version)
-            print('my test classpth ' + classpth)
             jpype.startJVM(jpype.getDefaultJVMPath())
             jpype.addClassPath(classpth)    
         

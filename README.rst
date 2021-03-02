@@ -22,8 +22,8 @@ py-graphmk is a python interface for graphmk. This wraps around graphmk java imp
  <https://github.com/graphmk/py-graphmk/issues>`_
 :Documentation: `Python Docs`_
 :License: `Apache 2 License`_
-:Build status: |Docs|_
-:Version: |PypiVersion|_
+:Build status: |Docs|
+:Version: |PypiVersion|
 
 
 Installing

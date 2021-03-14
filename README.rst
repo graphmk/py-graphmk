@@ -37,7 +37,7 @@ Alternatively, you can grab the latest source code from `GitHub <https://github.
 
     $ git clone git://github.com/graphmk/py-graphmk.git
     $ pip install -r requirements.txt
-    $ python setup.py install
+    $ python setup.py install --user
 
 Contributing
 ------------

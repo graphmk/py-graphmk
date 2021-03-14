@@ -6,7 +6,7 @@ import imp
 
 
 
-class GraphMk:
+class PyGraphMk:
     GML = 'gml'
     GraphSON = 'json'
 
